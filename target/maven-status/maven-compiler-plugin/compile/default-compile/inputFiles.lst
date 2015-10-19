@@ -1,0 +1,16 @@
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\restapi\dto\TopicList.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\model\real\RealTopic.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\restapi\dto\LastRunTimestampForTopic.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\restapi\NotFoundException.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\Application.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\model\parsing\CSVFileParser.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\restapi\dto\TopicStats.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\springStuff\JsonDateSerializer.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\model\parsing\DirCrawler.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\model\parsing\ParsingErrorMessage.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\restapi\dto\PartitionsAndMessagesInCurrentTopic.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\repository\TopicRepository.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\service\TopicService.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\model\parsing\ParsedTopicData.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\restapi\TopicController.java
+D:\spring-rest-topic-parser\src\main\java\com\github\ivkustoff\app\model\Topic.java
